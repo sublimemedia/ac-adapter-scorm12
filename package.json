@@ -1,6 +1,6 @@
 {
   "name": "@sublimemedia/ac-adapter-scorm12",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "An api-connector adapter intended for SCORM 1.2 use.",
   "main": "./dist/ac-adapter-scorm12",
   "scripts": {
@@ -13,7 +13,7 @@
     "url": "git+https://github.com/sublimemedia/ac-adapter-scorm12.git"
   },
   "author": "Sublime Media",
-  "license": "UNLICENSED",
+  "license": "SEE LICENSE IN license.md",
   "bugs": {
     "url": "https://github.com/sublimemedia/ac-adapter-scorm12/issues"
   },
